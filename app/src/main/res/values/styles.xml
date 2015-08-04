@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/material</item>
+        <item name="colorPrimaryDark">@color/material_dark</item>
+        <item name="colorAccent">@color/material</item>
+        <item name="drawerArrowStyle">@style/AppTheme.Base.DrawerArrowToggele</item>
+    </style>
+
+    <style name="AppTheme.Base.DrawerArrowToggele" parent="Base.Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/white</item>
+    </style>
+
+
+
+</resources>
