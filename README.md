@@ -10,3 +10,9 @@
 ![详情效果](https://github.com/thinkSky1206/MaterialDesignLearn/blob/master/images/tab.png )![详情效果](https://github.com/thinkSky1206/MaterialDesignLearn/blob/master/images/floatActionBtn.png )
 ##FloatActionButton点击实现淘宝加入购物车动画
 ![动画效果](https://github.com/thinkSky1206/MaterialDesignLearn/blob/master/images/anim.png )  
+
+##自定义Behavior实现知乎 简书效果
+####知乎效果
+![知乎效果](https://github.com/thinkSky1206/MaterialDesignLearn/blob/master/images/zhihu.gif )  
+####简书效果
+![简书效果](https://github.com/thinkSky1206/MaterialDesignLearn/blob/master/images/jianshu.gif )  
